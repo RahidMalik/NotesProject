@@ -42,5 +42,5 @@ Users can **add, edit, delete, and view notes** with live updates. Tailwind CSS 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <RahidMalik/NotesProject >
 cd NotesApp
